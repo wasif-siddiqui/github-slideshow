@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Sk8r Boi No H8r boi
 Use the left arrow to go back
